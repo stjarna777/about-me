@@ -16,4 +16,4 @@ HTML/CSS (могу написать простую Web-страницу), Java (
 
 **Языки, на которых я говорю**: русский (родной), английский (C1), немецкий (A1), украинский (A1).
 
-![image](https://github.com/stjarna777/about-me/blob/main/Photo/IMG_9166.jpg)
+![IMG_9166](https://user-images.githubusercontent.com/103038208/213779180-8d82e603-d07b-4b0a-9de7-a687110f4ae7.jpg)
